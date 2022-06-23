@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Secret
 metadata:
-  name: uwe-SQUER-repos-ssh-cred
+  name: uwe-squer-repos-ssh-cred
   namespace: argocd
   labels:
     argocd.argoproj.io/secret-type: repo-creds
