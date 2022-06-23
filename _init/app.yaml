@@ -9,7 +9,7 @@ spec:
     namespace: apps
   project: default
   source:
-    repoURL: https://github.com/squer-solutions/infrastructure-provisioning-workshop.git
+    repoURL: https://github.com/uwe-SQUER/infrastructure-provisioning-workshop.git
     targetRevision: level2
     path: apps
   syncPolicy:
